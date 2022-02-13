@@ -1,4 +1,4 @@
-# Taller Practico
+# Taller Practico  Exercice One📢
 
 _Manejo de Clases y Objetos en Java_
 
@@ -15,3 +15,11 @@ _Manejo de Clases y Objetos en Java_
 5.El taller debe ser puesto en un repositorio en GitHub de su propiedad. No olvide crear el archivo README.md explicando qué está entregando.
 
 6.El resultado de su taller debe ser entregado en el siguiente enlace: https://forms.gle/y6c3GjfHyGKNsDDd8
+
+## Autores ✒️
+
+* **Sergio Grimaldo** - *Trabajo Inicial, Documentación* - [sergiogrimaldo](https://github.com/sergiogrimaldo)
+
+
+
+⌨️ con ❤️ por [Sergio Grimaldo](https://github.com/sergiogrimaldo) 😊
