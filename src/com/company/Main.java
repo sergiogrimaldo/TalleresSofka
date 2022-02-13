@@ -1,10 +1,12 @@
 package com.company;
 
+
 public class Main {
 
+    /**
+     * @param args the command line arguments
+     */
     public static void main(String[] args) {
-	// write your code here
-        Person p;
-        p = new Person();
+        // TODO code application logic here
     }
 }
