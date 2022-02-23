@@ -1,12 +1,28 @@
 
 ##Taller práctico
-Manejo de Clases y Objetos en Java
+Ejercicios prácticos de buenas practicas de POO
+En pareja diseñar una aplicación que administre una lista de canciones, se debe tener lo siguiente:
 
-Realizar las clases de los siguientes diagramas, no olvide completar los diagramas si usted cree que hace falta algo.
+-Una biblioteca principal con todas las canciones
 
-1.Aparte de las 3 clases, usted debe proponer otras 3 clases donde mezcle tanto atributos públicos, como privados y protegidos.
-2.En las 3 clases que usted propone, también debe mezclar métodos tanto públicos, como privados y protegidos.
-3.Las 6 clases deben estar en un archivo independiente y cada clase debe ser debidamente documentada.
-4.El nombre de las clases, atributos y métodos, por favor en total inglés.
-5.El taller debe ser puesto en un repositorio en GitHub de su propiedad. No olvide crear el archivo README.md explicando qué está entregando.
-6.El resultado de su taller debe ser entregado en el siguiente enlace: https://forms.gle/y6c3GjfHyGKNsDDd8
+-Se debe tener una funcionalidad que permita crear playlist con canciones determinadas
+
+-Cada canción debe tener el titulo, identificador, fecha, duración, genero, caratula y una descripción corta.
+
+-Se debe crear comportamientos en donde se permita hacer filtros a la biblioteca principal, los filtros son:
+
+-Filtrar canciones del mismo genero
+
+-Filtrar canciones en el mismo año
+
+-Se debe crear comportamientos en donde se permita ordenar duración y fecha.
+
+
+DIRECTRICES DE ENTREGA:
+1.Se debe hacer la entrega en un repositorio de control de versión como github.
+
+2.El proyecto debe ser colaborativo, por ende se debe tener commits de los dos participante de forma equitativa
+
+3.El proyecto debe tener las buenas practicas de programación mencionadas
+
+4.Debes usar principios de programación orientada a objectos.
