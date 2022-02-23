@@ -1,7 +1,9 @@
 
-##Taller práctico
-Ejercicios prácticos de buenas practicas de POO
-En pareja diseñar una aplicación que administre una lista de canciones, se debe tener lo siguiente:
+## Taller práctico
+
+_Ejercicios prácticos de buenas practicas de POO_
+
+### _En pareja diseñar una aplicación que administre una lista de canciones, se debe tener lo siguiente:_
 
 -Una biblioteca principal con todas las canciones
 
@@ -18,7 +20,8 @@ En pareja diseñar una aplicación que administre una lista de canciones, se deb
 -Se debe crear comportamientos en donde se permita ordenar duración y fecha.
 
 
-DIRECTRICES DE ENTREGA:
+## DIRECTRICES DE ENTREGA:
+
 1.Se debe hacer la entrega en un repositorio de control de versión como github.
 
 2.El proyecto debe ser colaborativo, por ende se debe tener commits de los dos participante de forma equitativa
@@ -26,3 +29,5 @@ DIRECTRICES DE ENTREGA:
 3.El proyecto debe tener las buenas practicas de programación mencionadas
 
 4.Debes usar principios de programación orientada a objectos.
+
+⌨️ con ❤️ por [Sergio Grimaldo](https://github.com/sergiogrimaldo) 😊
