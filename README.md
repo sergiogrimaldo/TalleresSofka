@@ -14,3 +14,9 @@ https://moaramore.com/2016/05/14/clasificacion-de-las-naves-espaciales_
 4. Crear una clase principal que permita crear las naves de forma tal este bajo una condición booleana o por medio de una regla estipulada dentro de un switch-case o if-else.
 
 5. El programa debe tener una ejecución infinita, hasta que el usuario no diga que quiere terminar el programa, este no deberá culminar.
+
+## Autores ✒️
+
+* **Sergio Grimaldo** - *Trabajo Inicial, Documentación* - [sergiogrimaldo](https://github.com/sergiogrimaldo)
+
+⌨️ por [Sergio Grimaldo](https://github.com/sergiogrimaldo) 😊
