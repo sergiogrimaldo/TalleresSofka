@@ -30,4 +30,10 @@ _Ejercicios prácticos de buenas practicas de POO_
 
 4.Debes usar principios de programación orientada a objectos.
 
+## Autores ✒️
+
+* **Sergio Grimaldo** - *Trabajo Inicial, Documentación* - [Sergio Grimaldo](https://github.com/sergiogrimaldo)
+* **Juan Pablo Carmona** - *Trabajo en Equipo, Documentación* - [Juan P. Carmona](https://github.com/juanpablo491)
+
+
 ⌨️ con ❤️ por [Sergio Grimaldo](https://github.com/sergiogrimaldo) 😊
