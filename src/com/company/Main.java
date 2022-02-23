@@ -1,10 +1,10 @@
-}package com.company;
+package com.company;
 
 import java.util.ArrayList;
 import java.util.Scanner;
 
 /**
- *  Representa un ejercicio de POO basado en diagramas taller 1 Canteras Lvl 2.
+ *  Representa un ejercicio de POO basado en diagramas taller 3 Canteras Lvl 2.
  * @author Sergio A. Grimaldo R.
  * @author Juan P. Carmona C.
  * Representa la clase principal que permite correr el codigo.
@@ -31,10 +31,10 @@ public class Main {
 
         switch (option) {
             case 1:
-                   // MusicPlayer.createPlayList();
+                    MusicPlayer.createPlayList();
                 break;
             case 2:
-                    //MusicPlayer.seePlayList();
+                   MusicPlayer.seePlayList();
                 break;
             case 0:
                 System.out.println("Buen día");
